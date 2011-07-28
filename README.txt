@@ -1,0 +1,1 @@
+Braincraft is a neurevolution library under development by Chris Donahue and Prad Nelluru.
