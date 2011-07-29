@@ -1,1 +1,1 @@
-Braincraft is a neurevolution library under development by Chris Donahue and Prad Nelluru. This is a research project at the University of Texas at Austin.
+Braincraft is a neuroevolution library under development by Chris Donahue and Prad Nelluru. This is a research project at the University of Texas at Austin.
